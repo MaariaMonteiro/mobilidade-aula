@@ -12,7 +12,7 @@ Também foi implementada uma verificação de autenticação para impedir que al
 Demonstração
 
 - Vídeo mostrando o funcionamento do projeto:
-- [![Assista ao vídeo](./imgs/capa-video.png)](https://github.com/user-attachments/assets/b19b98d5-cd08-454e-adc8-e47e629c846e)
+[![Assista ao vídeo]](https://github.com/user-attachments/assets/b19b98d5-cd08-454e-adc8-e47e629c846e)
 
 
 
