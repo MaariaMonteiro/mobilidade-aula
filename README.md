@@ -1,4 +1,4 @@
-# Projeto Pokémon Login — T.P Web e Mobile
+# Projeto Pokémon Login | Componente de T.P Web e Mobile
 
 Este projeto foi desenvolvido para a disciplina T.P Web e Mobile, com o objetivo de praticar conceitos iniciais de React, organização por componentes, navegação entre telas e controle de autenticação tanto na Web quanto no Android.
 
